@@ -13,5 +13,5 @@ of standard Julia set.
 - navigate to the repo folder, and run
 
 ```bash
-streamlist run juliasetApp.py
+streamlit run juliasetApp.py
 ```
